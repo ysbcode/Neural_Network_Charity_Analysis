@@ -1,6 +1,6 @@
 # Neural_Network_Charity_Analysis
 
-![Deep_Learning](https://github.com/ysbcode/Neural_Network_Charity_Analysis/blob/main/Resources/Deep_Learning.jpg?raw=true)
+![Deep_Learning](https://github.com/ysbcode/Neural_Network_Charity_Analysis/blob/main/Resources/Deep_Learning.png?raw=true)
 
 ## Overview 
 
